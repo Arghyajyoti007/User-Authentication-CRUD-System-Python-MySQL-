@@ -125,7 +125,7 @@ def delete_user_details(cust_username, cust_password):
     cid = None
     if user_authinticated:
         cid = cust_details[0]
-    sql_query = f"delete from cust_login_details where cust_id = \"{cid}\";"
+    sql_query = f"delete from cust_login_details where cust_id = {cid};"
     try:
         cur_obj.execute(sql_query)
         print("User details updated successfully")
