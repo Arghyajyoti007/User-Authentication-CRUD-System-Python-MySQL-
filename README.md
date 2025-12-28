@@ -5,6 +5,9 @@ This project demonstrates backend fundamentals such as database connectivity, au
 
 ---
 
+<img width="500" height="500" alt="Gemini_Generated_Image_5zehr55zehr55zeh" src="https://github.com/user-attachments/assets/a5f4853f-739e-46fd-8f99-16433f0afc55" />
+
+
 ## 📌 Features
 
 - User Registration (Create)
