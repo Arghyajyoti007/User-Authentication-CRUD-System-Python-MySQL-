@@ -1,0 +1,4 @@
+1. open terminal of pycharm and type this- python -m pip install mysql-connector-python
+2. In pycharm type import mysql.connector and run the script.
+3. If it's showing connector not found then pls follow the video.
+4. if no error found then copy and paste entire code and run.
